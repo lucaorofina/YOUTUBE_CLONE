@@ -9,7 +9,7 @@ webpack: {
     path.resolve(__dirname, '/src/components/navigation')
     ),
     '@themes': path.join(path.resolve(__dirname,'./src/themes')),
-    '@hooks': path.join(path.resolve(__dirname, './src/hooks')),
+    '@hooks': path.join(path.resolve(__dirname, './srgit push --set-upstream origin mainc/hooks')),
     '@styles': path.join(path.resolve(__dirname, './src/styles')),
 },
 },
